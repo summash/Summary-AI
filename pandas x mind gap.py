@@ -1,9 +1,6 @@
 #summary ai
 import tkinter as tk 
 from tkinter import filedialog,messagebox
-# =============================================================================
-# from tkinterdnd2 import TkinterDnD, DND_FILES
-# =============================================================================
 from PIL import Image as img
 import pytesseract as pt
 import pdfplumber
